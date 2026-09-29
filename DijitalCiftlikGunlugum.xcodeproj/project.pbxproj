@@ -256,6 +256,9 @@
 				DEVELOPMENT_TEAM = 85RUJJ5H69;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "kamera icin";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "mic icin";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "foto icin";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -288,6 +291,9 @@
 				DEVELOPMENT_TEAM = 85RUJJ5H69;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "kamera icin";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "mic icin";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "foto icin";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
