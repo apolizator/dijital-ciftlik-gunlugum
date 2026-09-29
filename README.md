@@ -6,6 +6,16 @@ uygulaması.
 
 SwiftUI + SwiftData ile yazıldı. iOS 17 ve üzeri hedeflenir.
 
+## Ekran Görüntüleri
+
+<table>
+<tr>
+<td width="33%"><img src="ekran-goruntuleri/01-tarlalarim.png" alt="Tarlalarım"><br><sub><b>Tarlalarım</b> — durum rozeti ve son güncelleme</sub></td>
+<td width="33%"><img src="ekran-goruntuleri/02-islem-gir.png" alt="İşlem gir"><br><sub><b>İşlem girişi</b> — klavyeye dokunmadan</sub></td>
+<td width="33%"><img src="ekran-goruntuleri/03-zaman-tuneli.png" alt="Zaman tüneli"><br><sub><b>Zaman tüneli</b> — işlem durumu otomatik günceller</sub></td>
+</tr>
+</table>
+
 ## Özellikler
 
 - **Tek Ekran Dashboard** — Tüm tarlalar renkli kartlar olarak listelenir. Kartın
